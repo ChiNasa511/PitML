@@ -1,6 +1,6 @@
 # PitML
 Chinasa T. Okolo
-Sabuncu Lab - Cornell University
+BME/ECE - Cornell University
 Spring 2019
 
 
